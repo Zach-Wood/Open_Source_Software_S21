@@ -4,32 +4,30 @@
 ### Discord handle: ZachWood#5986
 
 
-##1
-### image
+
+###1 -- image
 ![195_Complex_PR](https://user-images.githubusercontent.com/40222287/106313422-2d23a980-6236-11eb-9179-2cd3332b17e1.jpg)
 
 ### discord: 
 ![image](https://user-images.githubusercontent.com/40222287/106313901-f39f6e00-6236-11eb-9de7-f089b2e2e38a.png)
 
-##2
-### How to Answer Questions in a Helpful way:
+###2 -- How to Answer Questions in a Helpful way:
 
 ### Suggestion 1: When answering questions i find it best to elaborate as much as possible. Chances are the individual asking the question does not have as much domain knowledge and your simplified answer might not be simple enough. 
 
 ### Suggestion 2: Another good approach to answering questions is, stepping through the question. If the individual is skipping steps and getting stuck, this will be quite obvious when walking through the question from start to finish. 
 
-##3
-### Free Culture - Chapter Three Response:
+###3 -- Free Culture - Chapter Three Response:
 The introduction to chapter three - Free Culture, was rather refreshing. With the constant negative feedback on forums and RPI's year after year drop in ranking. I have not seen RPI highlighted in a positive manner in quite a long time. Moving on to the topic at hand, i was unaware of the consequences for such tinkering. I feel the RIAA were overstepping quite a bit, this was very clear when they decided to settle for only $12,000. However, this reveals the importance of following license agreements. This chapter helped reiterate the importance of the "10 Criteria of Open Source". 
 
 
-##4
+###4 -- Reading Assignment
 ### Read Chapter 1 -- Beautiful Code
 ### Read
 
 
-##8 
-### ![image](https://user-images.githubusercontent.com/40222287/106396299-094a9a00-63d5-11eb-97da-54f576c1c032.png)
+###8 -- tree installation
+![image](https://user-images.githubusercontent.com/40222287/106396299-094a9a00-63d5-11eb-97da-54f576c1c032.png)
 
 
 ##10 -- Regex Practice Problems 
