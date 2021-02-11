@@ -10,10 +10,13 @@ Branching Diagram Visualization:
 
 
 
-Link to forked repository: https://github.com/Zach-Wood/Spoon-Knife
+Link to forked Spoon-Knife repository: https://github.com/Zach-Wood/Spoon-Knife
 
 
 
 
 Branchly Assignment
 ![image](https://user-images.githubusercontent.com/40222287/107662732-95bc4e80-6c58-11eb-9680-206fb25d1613.png)
+
+
+Link to forked PullReq repository: https://github.com/Zach-Wood/PullReq
