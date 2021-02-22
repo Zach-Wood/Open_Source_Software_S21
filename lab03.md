@@ -36,80 +36,80 @@
 * Current Branches: Siz branches are shown under github, and nothing is shown regarding the branches on the gitstats report.
 
 
-Project 2: Spiralstats
-Contributors: 5
-Lines of Code: 401
-First Commit: September 13th 2020
-Latest Commit: November 29th 2020
-Current Branches: 7
+### Project 2: Spiralstats
+* Contributors: 5
+* Lines of Code: 401
+* First Commit: September 13th 2020
+* Latest Commit: November 29th 2020
+* Current Branches: 7
 
-Gitstats Results:
+#### Gitstats Results:
 ![image](https://user-images.githubusercontent.com/40222287/108665661-6cdf5900-74a3-11eb-8207-8c8d8ffd50f3.png)
 
 
-Comparing Results:
-Contributors: It seems the data on github is limited to the past year. On github itself I found 5 contributors but on the gitstats report i found 6 contributors. 
+#### Comparing Results:
+* Contributors: It seems the data on github is limited to the past year. On github itself I found 5 contributors but on the gitstats report i found 6 contributors. 
 
-Lines of Code: On github the lines of code read as roughly 401. And comparing to gitstats i found 420 lines of code. 
+* Lines of Code: On github the lines of code read as roughly 401. And comparing to gitstats i found 420 lines of code. 
 
-First Commit: On github the first commit was listed as September 13th 2020. And comparing to the gitstats results the first commit is listed as September 17th 2020. 
+* First Commit: On github the first commit was listed as September 13th 2020. And comparing to the gitstats results the first commit is listed as September 17th 2020. 
 
-Latest Commit: On github the latest commit is November 29th, where as the gitstats results show the last commit as of December 1st 2020. 
+* Latest Commit: On github the latest commit is November 29th, where as the gitstats results show the last commit as of December 1st 2020. 
 
-Current Branches: Seven branches are shown under github, and nothing is shown regarding the branches on the gitstats report.
+* Current Branches: Seven branches are shown under github, and nothing is shown regarding the branches on the gitstats report.
 
 
 
-Project 3: Submitty
-Contributors: 98
-Lines of Code: 702,248
-First Commit: March 2020
-Latest Commit: February 19th 2021
-Current Branches: 131
+### Project 3: Submitty
+* Contributors: 98
+* Lines of Code: 702,248
+* First Commit: March 2020
+* Latest Commit: February 19th 2021
+* Current Branches: 131
 
-Gitstats Results:
+#### Gitstats Results:
 ![image](https://user-images.githubusercontent.com/40222287/108667675-b92c9800-74a7-11eb-8302-ed51a1ebb5f2.png)
 
 
-Comparing Results:
-Contributors: It seems the data on github is limited to the past year. On github itself I found 98 contributors but on the gitstats report i found 150 contributors. 
+#### Comparing Results:
+* Contributors: It seems the data on github is limited to the past year. On github itself I found 98 contributors but on the gitstats report i found 150 contributors. 
 
-Lines of Code: On github the lines of code read as roughly 702,248. And comparing to gitstats i found 235,823 lines of code. 
+* Lines of Code: On github the lines of code read as roughly 702,248. And comparing to gitstats i found 235,823 lines of code. 
 
-First Commit: On github the first commit was limited too March 2020. And comparing to the gitstats results the first commit is listed as January 2014. 
+* First Commit: On github the first commit was limited too March 2020. And comparing to the gitstats results the first commit is listed as January 2014. 
 
-Latest Commit: On github the latest commit is February 19th 2021, where as the gitstats results show the last commit as of February 2021. 
+* Latest Commit: On github the latest commit is February 19th 2021, where as the gitstats results show the last commit as of February 2021. 
 
-Current Branches: 131 branches are shown under github, and nothing is shown regarding the branches on the gitstats report.
+* Current Branches: 131 branches are shown under github, and nothing is shown regarding the branches on the gitstats report.
 
 
-Project 4: TeeTor
-Contributors: 4
-Lines of Code: 29,023
-First Commit: March 2020
-Latest Commit: February 2021
-Current Branches: 17
+### Project 4: TeeTor
+* Contributors: 4
+* Lines of Code: 29,023
+* First Commit: March 2020
+* Latest Commit: February 2021
+* Current Branches: 17
 
-Gitstats Results:
+#### Gitstats Results:
 ![image](https://user-images.githubusercontent.com/40222287/108668375-23920800-74a9-11eb-9520-ece89da1b9ad.png)
 
 
 
-Comparing Results:
-Contributors: It seems the data on github is limited to the past year. On github itself I found 4 contributors but on the gitstats report i found 7 contributors. 
+#### Comparing Results:
+* Contributors: It seems the data on github is limited to the past year. On github itself I found 4 contributors but on the gitstats report i found 7 contributors. 
 
-Lines of Code: On github the lines of code read as roughly 29,023. And comparing to gitstats i found 22,061 lines of code. 
+* Lines of Code: On github the lines of code read as roughly 29,023. And comparing to gitstats i found 22,061 lines of code. 
 
-First Commit: On github the first commit was limited too March 2020. And comparing to the gitstats results the first commit is listed as September 2019. 
+* First Commit: On github the first commit was limited too March 2020. And comparing to the gitstats results the first commit is listed as September 2019. 
 
-Latest Commit: On github the latest commit is February 2021, where as the gitstats results show the last commit as of February 2021. 
+* Latest Commit: On github the latest commit is February 2021, where as the gitstats results show the last commit as of February 2021. 
 
-Current Branches: 17 branches are shown under github, and nothing is shown regarding the branches on the gitstats report.
-
-
+* Current Branches: 17 branches are shown under github, and nothing is shown regarding the branches on the gitstats report.
 
 
-Part 3 Streaming Contribution Visualizations:
 
-Completed for each project. 
-![image](https://user-images.githubusercontent.com/40222287/108668989-280af080-74aa-11eb-841c-317be433dd5a.png)
+
+###Part 3 Streaming Contribution Visualizations:
+
+* Completed for each project. 
+* ![image](https://user-images.githubusercontent.com/40222287/108668989-280af080-74aa-11eb-841c-317be433dd5a.png)
