@@ -109,7 +109,7 @@
 
 
 
-###Part 3 Streaming Contribution Visualizations:
+## Part 3 Streaming Contribution Visualizations:
 
 * Completed for each project. 
 * ![image](https://user-images.githubusercontent.com/40222287/108668989-280af080-74aa-11eb-841c-317be433dd5a.png)
