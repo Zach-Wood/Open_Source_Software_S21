@@ -5,7 +5,7 @@
 
 2. Wiki Completed 
 
-3. Generating LateX fomrulas:
+3. Generating LateX formulas:
   ![image](https://user-images.githubusercontent.com/40222287/108662192-cc396b00-749b-11eb-9c7a-203eeca42e4a.png)
 
 4. Generating the Hadamard Matrix:
