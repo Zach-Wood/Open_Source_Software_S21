@@ -42,4 +42,13 @@
 
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+https://github.com/opencircuits/opencircuits | Yes | GNU General Public License Version 3 https://www.gnu.org/licenses/gpl-3.0.en.html
+
+https://github.com/sirmammingtonham/smartrider | Yes | GNU General Public License Version 3 https://www.gnu.org/licenses/gpl-3.0.en.html
+
+https://github.com/submitty/submitty | Yes | BSD 3-Clause License https://en.wikipedia.org/wiki/BSD_licenses
+
+https://github.com/rpi-alpaca/alpaca | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
+
+https://github.com/adamlawrencium/blockzeus-desktop | No | No License Specified 
+
