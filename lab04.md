@@ -38,7 +38,7 @@
 
 
 
-####  8. 
+####  8. Projects and Associated Licenses
 
 Website | License Present | License
 ---------|:----------|:-------
