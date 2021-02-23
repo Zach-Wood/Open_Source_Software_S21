@@ -43,7 +43,7 @@
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/opencircuits/opencircuits | Yes | GNU General Public License Version 3 https://www.gnu.org/licenses/gpl-3.0.en.html
-
+---------|:----------|:-------
 https://github.com/sirmammingtonham/smartrider | Yes | GNU General Public License Version 3 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 https://github.com/submitty/submitty | Yes | BSD 3-Clause License https://en.wikipedia.org/wiki/BSD_licenses
