@@ -12,4 +12,4 @@
 .. _OSI: https://opensource.org/
 
 
-'OSI <https://opensource.org/>'__
+'OSI <https://opensource.org/'_
