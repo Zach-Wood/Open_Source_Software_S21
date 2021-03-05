@@ -7,4 +7,6 @@
  https://www.gnu.org/licenses/gpl-3.0.en.html
 
 
+**[OSI](https://opensource.org)**
+
 .. _OSI: https://opensource.org/
