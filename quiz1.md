@@ -10,3 +10,6 @@
 **[OSI](https://opensource.org)**
 
 .. _OSI: https://opensource.org/
+
+
+'OSI <https://opensource.org/>'__
