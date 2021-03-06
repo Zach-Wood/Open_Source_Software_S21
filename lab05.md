@@ -84,3 +84,67 @@ target_include_directories(Tutorial PUBLIC
 ![image](https://user-images.githubusercontent.com/40222287/110222650-c1baa080-7ea1-11eb-99c1-f5ab50ce2837.png)
 
 
+
+## Step 3:
+
+#### CMakeLists.txt
+'''C
+
+
+```
+
+
+#### MathFunctions/CmakeLists.txt:
+```C
+
+```
+
+
+#### Screen Shot:
+
+
+
+
+
+
+## Step 4:
+
+#### CMakeLists.txt
+'''C
+
+
+```
+
+
+
+#### MathFunctions/CmakeLists.txt:
+```C
+
+```
+
+
+#### Screen Shot:
+
+
+
+
+## Step 5:
+
+
+#### CMakeLists.txt
+'''C
+
+
+```
+
+
+
+#### MathFunctions/CmakeLists.txt:
+```C
+
+```
+
+
+#### Screen Shot:
+
+
