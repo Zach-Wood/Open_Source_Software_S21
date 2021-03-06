@@ -87,7 +87,7 @@ target_include_directories(Tutorial PUBLIC
 
 ## Step 3:
 
-#### CMakeLists.txt
+#### CMakeLists.txt:
 ``` C
 cmake_minimum_required(VERSION 3.10)
 
@@ -144,7 +144,7 @@ target_include_directories( MathFunctions
 
 ## Step 4:
 
-#### CMakeLists.txt
+#### CMakeLists.txt:
 ``` C
 
 
@@ -166,7 +166,7 @@ target_include_directories( MathFunctions
 ## Step 5:
 
 
-#### CMakeLists.txt
+#### CMakeLists.txt:
 ``` C
 
 
