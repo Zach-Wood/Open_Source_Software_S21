@@ -6,6 +6,7 @@
 ## Steps 1 & 2:
 
 #### Tutorial.cxx:
+``` C
 / A simple program that computes the square root of a number
 #include <cmath>
 #include <iostream>
@@ -39,11 +40,12 @@ const double inputValue = std::stod(argv[1]);
             << std::endl;
   return 0;
 }
-
+```
 
 
 
 #### CMakeLists.txt:
+```C
 cmake_minimum_required(VERSION 3.10)
 
 # set the project name and version
@@ -77,7 +79,7 @@ target_include_directories(Tutorial PUBLIC
                           )
 
 
-
+```
 #### Screen Shot:
 
 
