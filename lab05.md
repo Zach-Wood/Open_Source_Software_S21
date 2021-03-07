@@ -45,7 +45,7 @@ const double inputValue = std::stod(argv[1]);
 
 
 #### CMakeLists.txt:
-```C
+```CMake
 cmake_minimum_required(VERSION 3.10)
 
 # set the project name and version
