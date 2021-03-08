@@ -145,7 +145,7 @@ target_include_directories( MathFunctions
 ## Step 4:
 
 #### CMakeLists.txt:
-``` C
+``` CMake
 cmake_minimum_required(VERSION 3.10)
 
 # set the project name and version
@@ -218,7 +218,7 @@ add_test( NAME Usage COMMAND Tutorial )
 
 
 #### MathFunctions/CmakeLists.txt:
-```C
+```CMake
 add_library(MathFunctions mysqrt.cxx)
 
 # state that anybody linking to us needs to include the current source dir
@@ -234,6 +234,7 @@ target_include_directories(MathFunctions
 
 
 #### Screen Shot:
+![image](https://user-images.githubusercontent.com/40222287/110373441-7e853c80-801d-11eb-9cb7-99e8198b316d.png)
 
 
 
@@ -242,7 +243,7 @@ target_include_directories(MathFunctions
 
 
 #### CMakeLists.txt:
-``` C
+``` CMake
 
 
 ```
@@ -250,7 +251,7 @@ target_include_directories(MathFunctions
 
 
 #### MathFunctions/CmakeLists.txt:
-```C
+```CMake
 
 ```
 
