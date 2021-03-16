@@ -99,7 +99,7 @@ if __name__ == '__main__':
 
 ```
 
-#### Results
+#### Results:
 
 ```python
 rens1@buntu:~/Open_Source/Lab6$ python3 plot_words.py
