@@ -1,9 +1,9 @@
 
 # Lab 6
 
-## 1:
+## Part 1:
 
-### Code:
+#### Code:
 
 ```python
 """
@@ -99,7 +99,7 @@ if __name__ == '__main__':
 
 ```
 
-### Results
+#### Results
 
 ```python
 rens1@buntu:~/Open_Source/Lab6$ python3 plot_words.py
@@ -176,4 +176,4 @@ rens1@buntu:~/Open_Source/Lab6$
 ```
 
 
-## 2:
+## Part 2:
