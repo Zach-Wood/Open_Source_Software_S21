@@ -19,3 +19,11 @@ Data Camp Intro to data visualization with ggplot2
 
 
 ## Step 4:
+Data Camp Multiple and Logistic Regression -- Parallel Slopes Lesson
+
+![image](https://user-images.githubusercontent.com/40222287/113329817-0d6b3900-92ec-11eb-854a-174cf43ee8cc.png)
+![image](https://user-images.githubusercontent.com/40222287/113337753-34c70380-92f6-11eb-9855-69e9649941b4.png)
+![image](https://user-images.githubusercontent.com/40222287/113337810-46a8a680-92f6-11eb-90f0-16350e8259f6.png)
+
+
+## Step 5:
