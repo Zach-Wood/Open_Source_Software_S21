@@ -30,4 +30,6 @@ Data Camp Multiple and Logistic Regression -- Parallel Slopes Lesson
 ### Observatory Page: https://rcos.io/projects/marinater/virtual-tab/profile
 ### Repository Page: https://github.com/marinater/virtual-tab
 ### Communication Channel: https://discord.gg/aaN2EmMcxV
+### Blog: https://github.com/marinater/virtual-tab/wiki/Blog
+### Collaborators: Zach Wood, Samarth Patel, Colton Zecca
 
