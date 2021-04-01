@@ -13,6 +13,9 @@ Data Camp Intro to data visualization with ggplot2
 
 ![image](https://user-images.githubusercontent.com/40222287/113323433-f1fc3000-92e3-11eb-98d5-b13a110ddead.png)
 
+![image](https://user-images.githubusercontent.com/40222287/113325062-e447aa00-92e5-11eb-91a0-6b953f6afb26.png)
+
+![image](https://user-images.githubusercontent.com/40222287/113325639-b57e0380-92e6-11eb-8a09-1ee0d60e368a.png)
 
 
-#### Code:
+## Step 4:
