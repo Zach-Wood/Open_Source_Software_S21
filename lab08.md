@@ -1,4 +1,4 @@
-# Lab 8
+# Lab 8 -- Docker
 ## Check Point 0:
 Complete
 
