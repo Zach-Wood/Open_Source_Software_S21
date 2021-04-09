@@ -27,7 +27,8 @@ Complete
 ### 1:
 ![image](https://user-images.githubusercontent.com/40222287/114121719-dc2ad400-98bc-11eb-9110-882225c1dbbc.png)
 
-### 2:
+### 2 -- Dockerfile:
+![image](https://user-images.githubusercontent.com/40222287/114121950-552a2b80-98bd-11eb-92d7-fbcac8c3102f.png)
 
 
 ### 3: 
