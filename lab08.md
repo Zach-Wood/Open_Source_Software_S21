@@ -1,31 +1,31 @@
 # Lab 8 -- Docker
-## Check Point 0:
+## Example00:
 Complete
 
 
 
 
-## Check Point 1:
+## Example01:
 Complete
 
 
 
 
-## Check Point 2:
-Complete
-
-
-
-
-
-## Check Point 3:
+## Example02:
 Complete
 
 
 
 
 
-## Check Point 4:
+## Example03:
+Complete
+
+
+
+
+
+## Example04:
 Complete
 
 
