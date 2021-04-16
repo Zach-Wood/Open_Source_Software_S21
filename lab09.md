@@ -1,4 +1,4 @@
-# Lab 9 -- Docker
-## Example00:
+# Lab 9 -- Mongo
+## Checkpoint 0:
 Complete
 ### 1:
